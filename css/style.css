@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 40px;
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    border-radius: 10px;
+}
+header h2{
+    margin-right: 20px;
+}
+body{
+    background-color: #1B263B;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0px 50px;
+}
+img.logo{
+
+margin-left: 20px;
+}
+h1{
+    text-align: center;
+}
+.latestmovies{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
