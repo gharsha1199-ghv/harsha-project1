@@ -29,3 +29,11 @@ h1{
     align-items: center;
     margin-top: 40px;
 }
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    margin-top: 40px;
+    border-radius: 10px;
+}
